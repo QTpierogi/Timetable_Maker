@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\Work\\Ulearn\\Проект\\Timetable Maker\\Timetable Maker.csproj": {}
+    "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj": {}
   },
   "projects": {
-    "C:\\Data\\Work\\Ulearn\\Проект\\Timetable Maker\\Timetable Maker.csproj": {
+    "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Work\\Ulearn\\Проект\\Timetable Maker\\Timetable Maker.csproj",
+        "projectUniqueName": "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj",
         "projectName": "Timetable Maker",
-        "projectPath": "C:\\Data\\Work\\Ulearn\\Проект\\Timetable Maker\\Timetable Maker.csproj",
-        "packagesPath": "C:\\Users\\mikes\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Work\\Ulearn\\Проект\\Timetable Maker\\obj\\",
+        "projectPath": "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj",
+        "packagesPath": "C:\\Users\\Worker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mikes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Worker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
