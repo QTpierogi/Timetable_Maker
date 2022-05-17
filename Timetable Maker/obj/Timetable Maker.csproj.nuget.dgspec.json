@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj": {}
+    "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj": {
+    "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj",
+        "projectUniqueName": "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj",
         "projectName": "Timetable Maker",
-        "projectPath": "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj",
+        "projectPath": "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable_Maker\\Timetable Maker\\Timetable Maker.csproj",
         "packagesPath": "C:\\Users\\Worker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable Maker\\obj\\",
+        "outputPath": "C:\\Users\\Worker\\Desktop\\программирование\\пятый семестр\\Timetable_Maker\\Timetable_Maker\\Timetable Maker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.8.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

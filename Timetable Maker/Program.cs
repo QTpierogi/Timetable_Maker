@@ -14,7 +14,8 @@ namespace Timetable_Maker
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            var taskCollector = new TaskCollector();
+            Application.Run(new TasksWindow(taskCollector));
         }
     }
 }
